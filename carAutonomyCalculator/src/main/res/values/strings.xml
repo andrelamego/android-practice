@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AutonomiaCalculator</string>
+    <string name="app_title">Car Autonomy Calculator</string>
+    <string name="author">Author: André Lamego</string>
+    <string name="author_ra" translatable="false">RA: 1110482412023</string>
+
+    <string name="textConsumo">Consumption (Km/L)</string>
+    <string name="textFuel">Fuel (L)</string>
+    <string name="btnCalcular">Calculate</string>
+    <string name="textAutonomia">Remaining Autonomy:</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AutonomiaCalculator</string>
+    <string name="app_title">Calculadora de Autonomia</string>
+    <string name="author">Autor: André Lamego</string>
+    <string name="textConsumo">Consumo (Km/L)</string>
+    <string name="textFuel">Combustível (L)</string>
+    <string name="btnCalcular">Calcular</string>
+    <string name="textAutonomia">Autonomia Restante:</string>
+</resources>
