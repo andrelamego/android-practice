@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PM-combustivel</string>
+    <string name="app_title">Calculadora de custo-benefício do Combustível</string>
+    <string name="tfGas">Preço da Gasolina</string>
+    <string name="tfEthanol">Preço do Etanol</string>
+    <string name="btnVerify">Verificar</string>
+    <string name="tlResult">A melhor opção é:</string>
+    <string name="resultGas">Gasolina</string>
+    <string name="resultEthanol">Etanol</string>
+    <string name="author">Autor: André Lamego</string>
+</resources>
