@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DiceRoller</string>
+    <string name="author">Autor: André Lamego</string>
+    <string name="qtd_dados">Dados Rolados:</string>
+    <string name="qtd1">1 Dado</string>
+    <string name="qtd2">2 Dados</string>
+    <string name="qtd3">3 Dados</string>
+    <string name="tipo_dado">Tipo de Dado:</string>
+    <string name="roll">Rolar</string>
+    <string name="results">Resultados:</string>
+</resources>
