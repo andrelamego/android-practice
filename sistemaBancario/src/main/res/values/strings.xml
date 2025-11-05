@@ -1,3 +1,37 @@
 <resources>
-    <string name="app_name">Sistema Bancario</string>
+    <string name="app_name">Bank System</string>
+    <string name="author_name" translatable="false">André Lamego</string>
+    <string name="author_ra" translatable="false">RA: 1110482412023</string>
+
+    <string name="account_data">Account Data</string>
+    <string name="account_type">Select an account type:</string>
+    <string name="savings_account">Savings Account</string>
+    <string name="especial_account">Especial Account</string>
+    <string name="name">Full Name</string>
+    <string name="account_code">Account Number</string>
+    <string name="balance">Initial Balance</string>
+    <string name="yield_day">Yield Day</string>
+    <string name="limit">Limit</string>
+    <string name="create_account">Create Account</string>
+
+    <string name="account_options">Account Options</string>
+    <string name="action_amount">Withdrawal/Deposit Amount</string>
+    <string name="yield_rate">Yield Rate (ex. 0.05 -> 5%)</string>
+    <string name="withdraw_button">Withdraw</string>
+    <string name="deposit_button">Deposit</string>
+    <string name="account_data_button">Account Data</string>
+    <string name="new_balance">Calculate new Balance</string>
+
+    <string name="register_error">Please fill in name, account number, and initial balance.</string>
+    <string name="register_success">Account successfully registered.</string>
+    <string name="null_account_error">You need to register first</string>
+    <string name="null_value_error">Enter a value to withdraw/deposit</string>
+    <string name="null_yield_error">Enter a yield rate</string>
+    <string name="wrong_account_type">Invalid account type!</string>
+
+    <string name="insufficient_balance">Insufficient balance!</string>
+    <string name="insufficient_limit">Insufficient limit!</string>
+    <string name="withdraw_success">Withdrawal successful!</string>
+    <string name="show_account_data">Account: %1$s;  Number: %2$d;  Balance: R$ %3$.2f</string>
+    <string name="new_balance_update">New Balance: %1$f</string>
 </resources>

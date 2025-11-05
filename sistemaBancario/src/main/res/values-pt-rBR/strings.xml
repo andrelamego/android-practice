@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sistema Bancário</string>
+    <string name="account_data">Dados da Conta</string>
+    <string name="account_type">Selecione um tipo de conta:</string>
+    <string name="savings_account">Conta Poupança</string>
+    <string name="especial_account">Conta Especial</string>
+    <string name="name">Nome Completo</string>
+    <string name="account_code">Código da Conta</string>
+    <string name="balance">Saldo Inicial</string>
+    <string name="yield_day">Dia de Rendimento</string>
+    <string name="limit">Limite</string>
+    <string name="create_account">Criar Conta</string>
+    <string name="account_options">Opções da Conta</string>
+    <string name="action_amount">Valor do Saque/Depósito</string>
+    <string name="yield_rate">Taxa de Rendimento (ex. 0.05 -> 5%)</string>
+    <string name="withdraw_button">Sacar</string>
+    <string name="deposit_button">Depositar</string>
+    <string name="account_data_button">Dados da Conta</string>
+    <string name="new_balance">Calcular Novo Saldo</string>
+    <string name="register_error">Preencha cliente, número da conta e saldo inicial.</string>
+    <string name="register_success">Conta cadastrada com sucesso</string>
+    <string name="null_account_error">É necessário criar uma conta primeiro</string>
+    <string name="null_value_error">Insira um valor para sacar/depositar</string>
+    <string name="null_yield_error">Insira uma taxa de Rendimento</string>
+    <string name="wrong_account_type">Tipo de conta inválido!</string>
+    <string name="insufficient_balance">Saldo insuficiente!</string>
+    <string name="insufficient_limit">Limite insuficiente!</string>
+    <string name="withdraw_success">Saque realizado com sucesso!</string>
+    <string name="show_account_data">Cliente: %1$s;  Codigo: %2$d;  Saldo: R$ %3$.2f</string>
+    <string name="new_balance_update">Novo Saldo: %1$f</string>
+</resources>
